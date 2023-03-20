@@ -1,5 +1,9 @@
 <html>
 
-<head></head>
-
+<head>
+<title> WelcomePage</title>
+</head>
+<body>
+<img src=C:\Users\DELL\Pictures\Saved Pictures></img>
+</body>
 </html>
